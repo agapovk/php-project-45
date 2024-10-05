@@ -6,5 +6,10 @@
             "name": "agapovk"
         }
     ],
+		"description": "hexlet php-package",
+		"license": "MIT",
+		"bin": [
+			"bin/brain-games"
+		],
     "require": {}
 }
